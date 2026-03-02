@@ -1,0 +1,16 @@
+{
+  "preferences": {
+    "sidebarMode": "chat",
+    "coworkScheduledTasksEnabled": false
+  },
+  "mcpServers": {
+    "rolldice": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://rolldice.ausbizconsulting.com.au/api/mcp"
+      ]
+    }
+  }
+}
