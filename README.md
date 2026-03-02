@@ -1,4 +1,4 @@
-# AI Agent Developer Setup Proof — Mate
+# AI Agent Developer Setup Proof — Rajip
 
 **Name:** Rajip
 **Workshop Cohort:** 17 Feb 2026
