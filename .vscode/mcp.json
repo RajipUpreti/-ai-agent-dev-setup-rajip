@@ -1,0 +1,15 @@
+{
+  "servers": {
+    "rolldice": {
+      "type": "http",
+      "url": "https://rolldice.ausbizconsulting.com.au/api/mcp"
+    },
+
+    "github": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/"
+    }
+  }
+}
+
+
